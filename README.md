@@ -43,7 +43,7 @@ They needed a centralized analytics dashboard to:
 - Delhi leads in average rating despite lower booking volume.
 
 ## 🔗 Important links
-- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDFjMTI1OGMtYTlmNi00ZDFmLTlhMTEtZDg3ZTA4NDFjNDE2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjYyOTdkNmUtZGQ4Zi00ZjAwLThmZDAtY2VkODAzZmIxN2E5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
