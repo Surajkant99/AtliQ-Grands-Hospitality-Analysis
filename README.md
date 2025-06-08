@@ -44,6 +44,7 @@ They needed a centralized analytics dashboard to:
 
 ## 🔗 Important links
 - [Live PowerBI dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjYyOTdkNmUtZGQ4Zi00ZjAwLThmZDAtY2VkODAzZmIxN2E5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- [Linkedin Post](https://www.linkedin.com/feed/update/urn:li:activity:7337396310599245825/)
 
 ## 📞 Contacts
 - [Protfolio](https://codebasics.io/portfolio/Suraj-Kant)
